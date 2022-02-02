@@ -1,0 +1,53 @@
+#container {
+    width: 960px;
+    background-color: rgba(128, 128, 128, 0.082);
+    margin: 0px auto;
+/* You only this use once in the program. Height is not required only use Width*/
+
+}
+
+h1 {
+    text-align: center;
+    border-top: 2px solid black;
+    font-family: Sans-serif;
+}
+
+img {
+    height: 200px;
+}
+
+h4{
+text-align: center;
+font-weight: lighter;
+}
+
+
+.row {
+
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 20px 0;
+
+}
+
+.top { 
+    
+    background-color:rgba(0, 162, 255, 0.322);
+    
+}
+
+.middle {
+    
+    background-color:thistle;
+    
+}
+
+.bottom  {
+    background-color: cadetblue;
+
+}
+
+.link {
+    text-align: center;
+}

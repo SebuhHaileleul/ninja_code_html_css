@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.nav {
+    width: 970px;
+    margin: 0 auto;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.514);
+
+}
+.nav-title { 
+
+    color: white;
+    padding: 10px;
+    font-weight: lighter;
+
+}
+
+.nav-links {
+    
+    display: flex;
+    padding: 20px;
+    list-style-type: none;
+    
+}
+
+.active {
+
+    padding: 10px;
+}
+
+.find {
+
+    padding: 2px;
+}
+
+.btn {
+
+    background-color: rgba(0, 195, 255, 0.644);
+    color: white;
+    font-weight: lighter;
+    align-items: flex-end;
+
+
+
+
+
+}
